@@ -1,5 +1,22 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Profile Functionality",
+    "children" : [ {
+      "name" : "Change profile name",
+      "uid" : "e66c9fa44a2ef771",
+      "parentUid" : "bfe6fb5a25b9d3632e34c1e8a59f2830",
+      "status" : "passed",
+      "time" : {
+        "start" : 1711646728041,
+        "stop" : 1711646738518,
+        "duration" : 10477
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bfe6fb5a25b9d3632e34c1e8a59f2830"
+  } ],
   "name" : "behaviors"
 }
