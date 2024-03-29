@@ -2,20 +2,19 @@
   "1743aa4e1ebdb399d68758464aeb7edc" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2be27754fa87ac83",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "uid" : "a1f05b221be9d66f",
+      "status" : "passed",
       "time" : {
-        "start" : 1711649046796,
-        "stop" : 1711649059887,
-        "duration" : 13091
+        "start" : 1711703430405,
+        "stop" : 1711703441702,
+        "duration" : 11297
       }
     } ]
   }
